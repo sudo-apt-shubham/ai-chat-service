@@ -1,0 +1,6 @@
+MODEL = "gpt-4"
+
+TEMPERATURE = 0.2
+
+MAX_TOKENS = 1024
+
